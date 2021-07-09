@@ -1,3 +1,3 @@
 const helloworld = () => ~{
-    console.log("Hello World");
+    console.log("Partiu Posto 7");
 };
